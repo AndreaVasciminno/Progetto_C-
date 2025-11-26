@@ -44,7 +44,7 @@ Since this is a header-only implementation, you do not need to compile a library
 
 **Usage example**
 
-'''cpp
+```cpp
 #include <iostream>
 #include "Stack.hpp"
 
@@ -69,7 +69,7 @@ int main() {
 
     return 0;
 }
-'''
+```
 
 ---
 
@@ -82,7 +82,7 @@ Open a terminal in the project root directory.
 
 Run the following command:
 
-'''doxygen Doxyfile'''
+```doxygen Doxyfile```
 
 ---
 *Project developed for the C++ Development Course at the University of Milan-Bicocca.*
