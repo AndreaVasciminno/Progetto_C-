@@ -1,9 +1,5 @@
 # Custom C++ Stack Implementation
 
-![Language](https://img.shields.io/badge/language-C++-blue.svg)
-![Documentation](https://img.shields.io/badge/docs-Doxygen-green.svg)
-![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
-
 A robust, custom implementation of a **Stack** data structure in C++. This project provides a header-only class (`Stack.hpp`) designed to mimic the standard `std::stack` behavior with a focus on educational clarity and easy integration.
 
 It includes a configured `Doxyfile` to automatically generate HTML and LaTeX documentation for the code.
@@ -31,6 +27,7 @@ This Stack implementation follows the **LIFO** (Last-In, First-Out) principle an
 ├── main.cpp         # Example usage / Test file
 ├── Doxyfile         # Doxygen configuration file
 └── README.md        # This file
+'''
 
 ---
 
