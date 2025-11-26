@@ -27,7 +27,7 @@ This Stack implementation follows the **LIFO** (Last-In, First-Out) principle an
 ├── main.cpp         # Example usage / Test file
 ├── Doxyfile         # Doxygen configuration file
 └── README.md        # This file
-'''
+'''text
 
 ---
 
