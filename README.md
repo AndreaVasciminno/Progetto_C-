@@ -21,13 +21,12 @@ This Stack implementation follows the **LIFO** (Last-In, First-Out) principle an
 
 ## 📂 Project Structure
 
-```text
 .
 ├── Stack.hpp        # The core stack class implementation
 ├── main.cpp         # Example usage / Test file
 ├── Doxyfile         # Doxygen configuration file
 └── README.md        # This file
-'''text
+
 
 ---
 
